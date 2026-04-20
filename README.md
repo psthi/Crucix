@@ -71,7 +71,7 @@ It was built for anyone who wants to understand what's actually happening in the
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/calesthio/Crucix.git
+git clone https://github.com/psthi/Crucix.git
 cd Crucix
 
 # 2. Install dependencies (just Express)
